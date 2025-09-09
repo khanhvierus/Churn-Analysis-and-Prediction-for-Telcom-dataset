@@ -26,28 +26,38 @@
 
 ### Dashboard: <br>
 [Tableau_Dashboard.pdf](https://github.com/user-attachments/files/22224064/Tableau_Dashboard.pdf)
-### Recommendations: 
-1. Customer Segmentation & Targeting:<br>
-  •	Since churn rate does not differ by gender or marital status, customer retention strategies should focus on other demographics (age, geographic region, services used) instead of gender.<br>
-  •	The senior group (>= 60) has the highest churn rate (0.36) → need a senior-friendly, easy-to-use service package with priority customer support.<br>
-2. Regional Strategy:<br>
-  •	Jammu & Kashmir has the highest churn rate (0.57) → need to analyze the specific reasons in this region: network quality, price, or competition.<br>
-  •	Uttar Pradesh has the most referrals → continue to promote referral programs here because of effectiveness, and learn to replicate the model to other states.<br>
-3. Service & Subscription Plans:<br>
-  •	Services such as Internet, Multiple Lines, Streaming, Unlimited Data have high churn rates → proving that customers who use many services often have higher expectations. So: <br>
-      o	Improve the quality of Internet & Fiber optic services (because Fiber optic has a high churn of 0.41).<br>
-      o	Increase bundle discounts to encourage long-term commitment.<br>
-  •	On the contrary, services such as Device Protection, Online Backup, Security, Premium Support help reduce churn → can cross-sell/upsell these services as additional packages to retain customers.<br>
-4. Contract & Tenure Strategy:<br>
-  •	Month-to-month contract has the highest churn (0.46) → encourage customers to switch to long-term contracts (1–2 years) by offering installation fee incentives, first month discounts or special benefits.<br>
-5. Payment Methods:<br>
-  •	Mailed checks have the highest churn rate (0.38) → this group may be older customers who are less familiar with online payments. So:<br>
-      o	Encourage them to switch to Credit Card or Auto Bank Withdrawal by offering a discount on service fees/small incentives when switching payment methods.<br>
-      o	Keep offline support for some older customers, but aim for digitalization.<br>
-  •	Credit cards have the lowest churn (0.15) → encourage more customers to use this method.<br>
-6. Churn Reasons:<br>
-  •	Among the reasons, Competitor (752) is the most common → need to analyze competitor's strategy (price, promotion, internet speed) and improve current weaknesses.<br>
-7. Deals / Promotions: <br>
-  •	Churn rate increases when there are more deals (deal 5 has churn up to 0.54) → proving that current promotions do not retain customers for a long time, but are only short-term.<br>
-  •	Promotion policies need to be redesigned: not only initial discounts but also long-term benefits (free upgrade, data bonus, VIP customer support).
+### 📌 Recommendations
+
+#### 1. Customer Segmentation & Targeting
+- Churn rate **does not differ by gender or marital status** → focus on other demographics (age, region, services used).  
+- The **senior group (>= 60)** has the highest churn rate (0.36) → introduce a **senior-friendly service package** with simplified features and priority support.
+
+#### 2. Regional Strategy
+- **Jammu & Kashmir** has the highest churn rate (0.57) → investigate specific causes (network quality, price, competition).  
+- **Uttar Pradesh** has the most referrals → continue to strengthen referral programs and replicate the model in other regions.
+
+#### 3. Service & Subscription Plans
+- Services with **high churn**: Internet, Multiple Lines, Streaming, Unlimited Data → customers using many services tend to have higher expectations.  
+  - 🔹 Improve Internet & Fiber Optic quality (Fiber churn = 0.41).  
+  - 🔹 Offer bundle discounts to encourage long-term commitment.  
+- Services with **low churn**: Device Protection, Online Backup, Security, Premium Support → leverage them for cross-sell/upsell to improve retention.
+
+#### 4. Contract & Tenure Strategy
+- **Month-to-month contracts** show the highest churn (0.46) → encourage switching to longer-term contracts (1–2 years) by:  
+  - Offering installation fee waivers.  
+  - Giving first-month discounts.  
+  - Adding exclusive benefits.
+
+#### 5. Payment Methods
+- **Mailed checks** have the highest churn rate (0.38) → this segment is likely older customers less familiar with digital payments.  
+  - 🔹 Incentivize switching to Credit Card or Auto Bank Withdrawal with discounts or perks.  
+  - 🔹 Keep limited offline support but aim for digital adoption.  
+- **Credit cards** have the lowest churn (0.15) → encourage broader adoption of this method.
+
+#### 6. Churn Reasons
+- **Competitor (752 cases)** is the most common reason → analyze competitor strategies (pricing, promotions, internet speed) and address current weaknesses.
+
+#### 7. Deals / Promotions
+- Churn increases with more deals (**deal 5 churn = 0.54**) → current promotions attract short-term users but fail to retain them.  
+- Redesign promotions: go beyond initial discounts and add **long-term benefits** (free upgrades, extra data, VIP support).
 
