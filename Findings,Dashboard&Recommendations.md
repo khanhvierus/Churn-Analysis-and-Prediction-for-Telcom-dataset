@@ -25,7 +25,12 @@
 
 
 ### Dashboard: <br>
-[Tableau_Dashboard.pdf](https://github.com/user-attachments/files/22224064/Tableau_Dashboard.pdf)
+![Image](https://github.com/user-attachments/assets/7a6ae25c-7af6-4a8c-b858-8ec83e2c1548)
+![Image](https://github.com/user-attachments/assets/4570250d-dac4-43e0-999d-81958f8c70f0)
+![Image](https://github.com/user-attachments/assets/3edbbabc-49a8-40b1-95ee-27b216c18a18)
+![Image](https://github.com/user-attachments/assets/a915552f-f0c7-4b84-b668-7e84c7354443)
+![Image](https://github.com/user-attachments/assets/507dd875-60dd-4ab3-957c-04e03b46dc02)
+![Image](https://github.com/user-attachments/assets/785a326e-14d3-4dd5-b4a8-569c94c45b14)
 ### Recommendations:
 
 #### 1. Customer Segmentation & Targeting:
