@@ -22,3 +22,7 @@ Findings and Insights summary: <br>
 - Regarding the Internet network classification, the most used network type is Fiber optic (2725), which also has the highest Churn rate (0.41)<br>
 - Regarding the Contract, we can easily see that the month-to-month contract accounts for the majority, and is also the group with the highest Churn rate (0.46). The Churn rate decreases as the contract term increases - this is very reasonable<br>
 - Finally, the payment method. The most popular type is 'Bank Withdrawal' (3521), but the type with the highest Churn rate is 'Mailed check' with 0.38 despite only having 343 customers. 'Credit card' has quite a lot of customers (2447) but has the lowest Churn rate with only 0.15.
+
+
+Dashboard: <br>
+[Tableau_Dashboard.pdf](https://github.com/user-attachments/files/22224064/Tableau_Dashboard.pdf)
