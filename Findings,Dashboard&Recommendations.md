@@ -35,15 +35,15 @@
   •	Uttar Pradesh has the most referrals → continue to promote referral programs here because of effectiveness, and learn to replicate the model to other states.<br>
 3. Service & Subscription Plans:<br>
   •	Services such as Internet, Multiple Lines, Streaming, Unlimited Data have high churn rates → proving that customers who use many services often have higher expectations. So: <br>
-    o	Improve the quality of Internet & Fiber optic services (because Fiber optic has a high churn of 0.41).<br>
-    o	Increase bundle discounts to encourage long-term commitment.<br>
+      o	Improve the quality of Internet & Fiber optic services (because Fiber optic has a high churn of 0.41).<br>
+      o	Increase bundle discounts to encourage long-term commitment.<br>
   •	On the contrary, services such as Device Protection, Online Backup, Security, Premium Support help reduce churn → can cross-sell/upsell these services as additional packages to retain customers.<br>
 4. Contract & Tenure Strategy:<br>
   •	Month-to-month contract has the highest churn (0.46) → encourage customers to switch to long-term contracts (1–2 years) by offering installation fee incentives, first month discounts or special benefits.<br>
 5. Payment Methods:<br>
   •	Mailed checks have the highest churn rate (0.38) → this group may be older customers who are less familiar with online payments. So:<br>
-    o	Encourage them to switch to Credit Card or Auto Bank Withdrawal by offering a discount on service fees/small incentives when switching payment methods.<br>
-    o	Keep offline support for some older customers, but aim for digitalization.<br>
+      o	Encourage them to switch to Credit Card or Auto Bank Withdrawal by offering a discount on service fees/small incentives when switching payment methods.<br>
+      o	Keep offline support for some older customers, but aim for digitalization.<br>
   •	Credit cards have the lowest churn (0.15) → encourage more customers to use this method.<br>
 6. Churn Reasons:<br>
   •	Among the reasons, Competitor (752) is the most common → need to analyze competitor's strategy (price, promotion, internet speed) and improve current weaknesses.<br>
