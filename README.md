@@ -93,3 +93,8 @@ The dataset collects detailed information about customers, subscription services
 - Churn rate increases when there are more deals (deal 5 has churn up to 0.54) → proving that current promotions do not retain customers for a long time, but are only short-term.  
 - Promotion policies need to be redesigned: not only initial discounts but also long-term benefits (free upgrade, data bonus, VIP customer support).
 
+### Summary of results from building models for predictions: 
+- The results from the importance assessment based on the Random Forest model are very promising, most of the features with high importance match what was analyzed in the Insights section.
+- Recall (main metric) increases after filtering out less important features
+- The Recall of class 1 after testing on XGBoost (0.67) and LightGBM(0.78) is higher than on RandomForest(0.57)
+To see the whole processing , you can view this file **Customer_Churn_Prediction.ipynb**
