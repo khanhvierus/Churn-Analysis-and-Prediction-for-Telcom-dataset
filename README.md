@@ -97,5 +97,6 @@ The dataset collects detailed information about customers, subscription services
 - The results from the importance assessment based on the Random Forest model are very promising, most of the features with high importance match what was analyzed in the Insights section.
 - Recall (main metric) increases after filtering out less important features
 - The Recall of class 1 after testing on XGBoost (0.67) and LightGBM(0.78) is higher than on RandomForest(0.57)<br>
+
 To see the whole processing, you can view this file [Customer_Churn_Prediction.ipynb](Customer_Churn_Prediction.ipynb)
 
