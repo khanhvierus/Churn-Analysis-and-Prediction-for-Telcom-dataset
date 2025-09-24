@@ -55,7 +55,8 @@ The dataset collects detailed information about customers, subscription services
 
 
 ### Dashboard: <br>
-<img width="557" height="363" alt="Image" src="https://github.com/user-attachments/assets/802409d0-b40c-4ab0-a08e-b954860ccea5" />
+<img width="750" height="500" alt="Image" src="https://github.com/user-attachments/assets/802409d0-b40c-4ab0-a08e-b954860ccea5" />
+
 ### Recommendations:
 
 #### 1. Customer Segmentation & Targeting:
