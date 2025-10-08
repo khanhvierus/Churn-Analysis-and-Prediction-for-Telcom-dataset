@@ -57,7 +57,8 @@ The dataset collects detailed information about customers, subscription services
 ### Dashboard: <br>
 <img width="812" height="258" alt="Image" src="https://github.com/user-attachments/assets/f2570f5d-ee37-41a9-8cc3-8deeca0d3117" />
 <img width="813" height="203" alt="Image" src="https://github.com/user-attachments/assets/f6d39a1f-ea91-4599-94de-0a4ca474f646" />
-<br>
+
+
 To see the full dashboard clearly , you can view here [Dashboard1.pdf](Dashboard1.pdf)
 ### Recommendations:
 
