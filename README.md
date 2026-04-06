@@ -52,7 +52,7 @@ The model was validated against a **hidden 15% Test Set** that it had never seen
 The entire workflow is encapsulated in a production-ready **Scikit-learn Pipeline**:
 
 ```mermaid
-graph TD
+graph LR
     A[Raw Data] --> B[Feature Engineering Wrapper]
     B --> C[ColumnTransformer: Encode/Scale]
     C --> D[Feature Selector: Top 38 Gain-based]
